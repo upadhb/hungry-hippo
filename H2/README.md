@@ -6,6 +6,7 @@ It contains the source code for online ordering of food from local homes.
 ## Before you begin
 
 Perform the following steps:
+
 1. Make sure you have the latest version of [Node.js][node] installed. This also contains **npm**, a package manager. 
 If on Linux or Mac OS, we recommend using a tool like [NVM][nvm] (Linux) or [HomeBrew][brew] (macOS), which allows you to swap between installed versions of Node.
 2. If using IntelliJ, ensure your JavaScript language version is set to ECMAScript 6.
